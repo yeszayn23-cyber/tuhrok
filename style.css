@@ -1,0 +1,30 @@
+body {
+    background: #E6E6FA; /* بنفسجي فاتح */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Arial', sans-serif;
+}
+
+#gate-container {
+    text-align: center;
+    padding: 50px;
+    border: 2px solid #D8BFD8;
+    border-radius: 30px;
+    box-shadow: 0 0 20px rgba(186, 85, 211, 0.3);
+}
+
+.palace-title {
+    color: #4B0082;
+    font-size: 3em;
+    text-shadow: 2px 2px 5px silver;
+}
+
+button {
+    background: #9370DB;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
